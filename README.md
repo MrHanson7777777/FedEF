@@ -15,7 +15,7 @@
 ## 项目结构
 
 ``` bash
-Code_Ablation/
+Code/
 ├── 主程序文件
 │   ├── baseline_main.py          # 基线实验主程序
 │   ├── federated_main.py         # 联邦学习主程序  
@@ -191,4 +191,5 @@ python visualize_results.py --comparison --output_dir ./save/plots
 ```
 
 这是我在机器学习课程中的学习成果，希望能为联邦学习的研究贡献一份微薄之力
+
 
