@@ -8,6 +8,7 @@ import re
 import shutil
 
 '''
+单独使用这个文件的命令行是
 python visualize_results.py path/to/csv/file.csv --output_dir ./save/plots
 python visualize_results.py --comparison --output_dir ./save/plots
 '''

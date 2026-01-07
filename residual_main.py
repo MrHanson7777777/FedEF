@@ -8,7 +8,7 @@ import sys
 # 强制设置UTF-8编码
 if sys.platform.startswith('win'):
     import os
-    os.system('chcp 65001 > nul')  # 设置Windows控制台为UTF-8
+    os.system('chcp 65001 > nul')  #设置Windows控制台为UTF-8
     
 # 确保print输出使用UTF-8
 if hasattr(sys.stdout, 'reconfigure'):

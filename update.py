@@ -5,7 +5,7 @@
 import torch
 import copy
 import math
-from torch import nn # 导入 PyTorch 神经网络模块
+from torch import nn
 from torch.utils.data import DataLoader, Dataset # 导入数据加载工具
 from torch.optim.lr_scheduler import StepLR, ExponentialLR, CosineAnnealingLR # 导入学习率调度器
 

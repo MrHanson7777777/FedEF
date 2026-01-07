@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# 残差联邦学习工具函数 - 简化版
+# 残差联邦学习工具函数
 
 import torch
 import copy

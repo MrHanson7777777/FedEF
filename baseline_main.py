@@ -7,6 +7,7 @@ import sys
 import locale
 import os
 
+
 # 强制设置UTF-8编码
 if sys.platform.startswith('win'):
     os.system('chcp 65001 > nul')  # 设置Windows控制台为UTF-8

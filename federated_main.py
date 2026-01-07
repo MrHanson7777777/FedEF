@@ -5,6 +5,7 @@
 # 设置编码
 import sys
 
+
 # 强制设置UTF-8编码
 if sys.platform.startswith('win'):
     import os
